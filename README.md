@@ -1,5 +1,5 @@
 # 🔥 Course Bot Telegram
-The SuetaWBBot is a comprehensive bot application designed to interact with users through a messaging platform, providing a range of functionalities and services. The bot is built using a modular architecture, with separate modules for handling messages, commands, and callbacks, as well as services for managing user data and administrative tasks. The project aims to provide a flexible and customizable bot solution that can be easily integrated with various messaging platforms.
+Comprehensive bot application designed to interact with users through a messaging platform, providing a range of functionalities and services. The bot is built using a modular architecture, with separate modules for handling messages, commands, and callbacks, as well as services for managing user data and administrative tasks. The project aims to provide a flexible and customizable bot solution that can be easily integrated with various messaging platforms.
 
 ## 🚀 Features
 - **Modular Architecture**: The bot is built using a modular architecture, with separate modules for handling messages, commands, and callbacks.
